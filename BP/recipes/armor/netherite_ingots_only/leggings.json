@@ -1,0 +1,29 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ssbnc:craft_netherite_leggings.json"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"N": {
+				"item": "minecraft:netherite_ingot"
+			}
+		},
+		"pattern": [
+			"NNN",
+			"N N",
+			"N N"
+		],
+		"result": {
+			"item": "minecraft:netherite_leggings"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:netherite_ingot"
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ssbnc:craft_ntherite_shovel"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"N": "minecraft:netherite_ingot",
+			"S": "minecraft:stick"
+		},
+		"pattern": [
+			" N ",
+			" S ",
+			" S "
+		],
+		"result": {
+			"item": "minecraft:netherite_shovel"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:netherite_ingot"
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ssbnc:craft_ntherite_hoe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"N": "minecraft:netherite_ingot",
+			"S": "minecraft:stick"
+		},
+		"pattern": [
+			"NN ",
+			" S ",
+			" S "
+		],
+		"result": {
+			"item": "minecraft:netherite_hoe"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:netherite_ingot"
+			}
+		]
+	}
+}

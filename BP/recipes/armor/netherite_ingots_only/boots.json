@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ssbnc:craft_netherite_boots.json"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"N": {
+				"item": "minecraft:netherite_ingot"
+			}
+		},
+		"pattern": [
+			"N N",
+			"N N"
+		],
+		"result": {
+			"item": "minecraft:netherite_boots"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:netherite_ingot"
+			}
+		]
+	}
+}

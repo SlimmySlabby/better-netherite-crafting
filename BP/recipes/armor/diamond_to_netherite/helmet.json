@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "ssbnc:craft_diamond_to_netherite_helmet.json"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:diamond_helmet",
+				"count": 1
+			},
+			{
+				"item": "minecraft:netherite_ingot",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "minecraft:netherite_helmet",
+			"count": 1
+		},
+		"unlock": [
+			{
+				"item": "minecraft:netherite_ingot"
+			}
+		]
+	}
+}
